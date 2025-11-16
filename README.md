@@ -1,2 +1,2 @@
-# ai-python
-I have start my first python project
+# Ai-Python
+I have start my first python project.
